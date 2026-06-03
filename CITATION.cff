@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+type: software
+authors:
+  - family-names: "García Meixide"
+    given-names: "Carlos"
+  - family-names: "Matabuena"
+    given-names: "Marcos"
+title: "Causal Survival Embeddings"
+year: 2025
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "García Meixide"
+      given-names: "Carlos"
+    - family-names: "Matabuena"
+      given-names: "Marcos"
+  title: "Causal survival embeddings: Non-parametric counterfactual inference under right-censoring"
+  journal: "Statistical Methods in Medical Research"
+  volume: 34
+  issue: 3
+  start: 574
+  end: 593
+  year: 2025
+  doi: "10.1177/09622802241311455"
+  pmcid: "PMC11951469"
+  pmid: "39930905"
